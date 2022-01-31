@@ -1,7 +1,15 @@
-Subnet calculator and random IP generator
+#Subnet calculator and random IP generator
 
-Librarys in use:
-random
-sys
+#Librarys in use:
+#random
+#sys
 
-Filtering IP and subnet
+#With provided ip address and subnet will be calculated:
+
+    # network ip
+    # brodcast ip
+    # numbers fo possible host
+    # wildcard mask
+    # mask in bites
+
+#Also generates ip, using provided information.

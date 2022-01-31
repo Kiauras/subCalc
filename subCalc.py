@@ -97,7 +97,7 @@ def subnet_calc():
         #print(ip_octets_padded)
         binary_ip = "".join(ip_octets_padded)
 
-        #print(binary_ip) #PVZ: 192.168.2.100 => 11111111111111111111111100000000
+        #print(binary_ip) #PVZ: 192.168.2.100 => 11000000101010000000001001100100
 
         #gauname tinklo adresa ir broudcast adresa is binary stringo auksciau
         network_address_binary = binary_ip[:(no_of_ones)] + "0" * no_of_zeros
