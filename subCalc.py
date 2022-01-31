@@ -37,7 +37,7 @@ def subnet_calc():
                 print("\nNetinkamas subnet mask, bandykite dar karta!\n")
                 continue
 
-        mask_octets_padded = [] # tuscias sarasas sudnetmask 
+        mask_octets_padded = []
         mask_octets_decimal = subnet_mask.split('.')
         #print (mask_octets_decimal)
 
