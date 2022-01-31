@@ -1,8 +1,9 @@
 #Subnet calculator and random IP generator
 
 #Librarys in use:
-#random
-#sys
+
+    #random
+    #sys
 
 #With provided ip address and subnet will be calculated:
 
